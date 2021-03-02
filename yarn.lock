@@ -2663,10 +2663,10 @@
   dependencies:
     defer-to-connect "^2.0.0"
 
-"@tailwindcss/typography@^0.1.4":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@tailwindcss/typography/-/typography-0.1.4.tgz#88157a0d2e06432ed7641d13dd17b8008b1264ed"
-  integrity sha512-wgZrDEAb8Ij4ehYHvaSKOnQLofEyi6sl33CmWQ+Dm9mgl/Xw0dT78Yt5QRWGyYMdEGNGagK5BX3ltmurIJDYpQ==
+"@tailwindcss/typography@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@tailwindcss/typography/-/typography-0.2.0.tgz#b597c83502e3c3c6641a8aaabda223cd494ab349"
+  integrity sha512-aPgMH+CjQiScLZculoDNOQUrrK2ktkbl3D6uCLYp1jgYRlNDrMONu9nMu8LfwAeetYNpVNeIGx7WzHSu0kvECg==
 
 "@tokenizer/token@^0.1.0", "@tokenizer/token@^0.1.1":
   version "0.1.1"
